@@ -36,15 +36,15 @@ The model estimates exam score from five explanatory variables. Performance is r
 
 ### Score distribution
 
-![Distribution of synthetic exam scores](visualizations/score_distribution.png)
+![Distribution of synthetic exam scores](visualizations/score_distribution.svg)
 
 ### Study time and exam performance
 
-![Study hours versus exam score](visualizations/study_hours_vs_score.png)
+![Study hours versus exam score](visualizations/study_hours_vs_score.svg)
 
 ### Regression coefficients
 
-![Regression coefficients](visualizations/regression_coefficients.png)
+![Regression coefficients](visualizations/regression_coefficients.svg)
 
 ## Project structure
 
@@ -60,9 +60,9 @@ data-science-project/
 │   ├── analyze.py
 │   └── generate_data.py
 ├── visualizations/
-│   ├── regression_coefficients.png
-│   ├── score_distribution.png
-│   └── study_hours_vs_score.png
+│   ├── regression_coefficients.svg
+│   ├── score_distribution.svg
+│   └── study_hours_vs_score.svg
 ├── LICENSE
 ├── README.md
 └── requirements.txt
